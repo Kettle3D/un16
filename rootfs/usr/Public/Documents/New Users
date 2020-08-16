@@ -1,0 +1,8 @@
+Hello, and welcome to UN16!
+If you've just started using it, you will need to change some stuff. For example, there is one user named root with no password, so you might want to set a password and/or add a new user.
+
+We reccommend kepping the root user, as it is the device administrator, but you should set a password. To do this, type in 'settings users', and we'll guide you through the process.
+
+There is a list of startup tasks in '/etc/profile', some of them need to stay there but you can add and remove your own ones. The file is programmed in the UN16 Shell language, so if you need help you can type in 'help'.
+
+There are other utilities available on this computer or for download (you'll need either a mobile phone, tablet or another computer for this part), whether you're interested in games, productivity apps, development software or anything really!

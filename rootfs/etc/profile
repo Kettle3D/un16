@@ -1,0 +1,18 @@
+# This file is full of human-readable startup tasks. When you boot the system, it looks for /etc/startup, which opens this file in Shell.
+
+global HOME
+global CD
+
+# The code below is important, please do not modify it.
+sub root {
+  return if not USER matches "root"
+  set HOME to "/root"
+}
+set HOME to "/usr/" USER
+do root
+cd HOME
+# Feel free to add your own startup tasks BELOW THIS LINE.
+
+# You can remove this one if you like:
+cat /usr/Public/Documents/Welcome.txt
+

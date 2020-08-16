@@ -1,0 +1,6 @@
+Welcome to un16!
+
+If this is your first time using the OS, then the 'help' command can help you master it. Also, try 'cat "/usr/Public/Documents/New Users"'
+If this is not, you're probably getting sick of seeing this message, so run the following command:
+
+'edit /etc/profile' (without the quotes)

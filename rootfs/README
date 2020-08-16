@@ -1,0 +1,5 @@
+In order for UN16 to work, it needs a filesystem with all of the basic utilities. This filesystem is provided by a microSD module. That microSD module reads a microSD card, and you'll need to follow these steps to set one up:
+
+1) Get a microSD card. You can get them for cheap on the internet or in a stationery shop.
+2) Format the SD. Where it prompts you to pick a filesystem format, pick FAT32.
+3) Copy all of the files in this folder over to the microSD.
